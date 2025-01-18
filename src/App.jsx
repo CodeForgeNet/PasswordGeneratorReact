@@ -6,6 +6,10 @@ function App() {
   const [numAllowed, setNumAllowed] = useState(false)
   const [charAllowed, setCharAllowed] = useState(false)
   const [password, setPassword] = useState("")
+
+  const passwordGenrerator = () => {
+    
+  }
   
 
   return (
