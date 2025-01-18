@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <div className="w-full" ></div>
+      <div className="w-full max-w-mid mx-auto shadow-md rounded-lg px-4 my-8 text-orange-500 " ></div>
     </>
   )
 }
